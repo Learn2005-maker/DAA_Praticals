@@ -164,7 +164,6 @@ DAA-Practicals/
 ```
 
 ---
-=======
 >>>>>>> d61ee0dce97beea0baee07c628f7eed5c8d09a67
 
 # 🎯 Learning Outcomes
@@ -211,9 +210,6 @@ Please consider giving it a ⭐ on GitHub.
 Made with ❤️ by **Your Name**
 
 </div>
-sujith kumar
-=======
-
 
 ### 🚀 Happy Coding!
 
